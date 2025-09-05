@@ -1,4 +1,4 @@
-# Power-Bi
+<img width="1325" height="741" alt="Screenshot 2025-08-26 214113" src="https://github.com/user-attachments/assets/9b63b396-3ed4-4b08-bccf-0d5515fff59f" /><img width="1325" height="744" alt="Screenshot 2025-08-26 214003" src="https://github.com/user-attachments/assets/06ed93d8-5190-4af8-949f-8e3ef3677e07" /># Power-Bi
 This repository contains my Power BI projects, showcasing how raw data can be transformed into clear, meaningful, and interactive insights. The dashboards highlight my skills in data modeling, DAX, and visualization, with a strong focus on building user-friendly reports that support business decision-making.
 # 🎵 Power BI Dashboard – Spotify Music Analysis  
 
@@ -26,10 +26,12 @@ This repository contains a Power BI dashboard built using a Spotify dataset of ~
 ## 📷 Dashboard Previews  
 
 ### Dashboard 1  
-![Spotify Dashboard 1](images/dashboard1.png)  
+![Spotify Dashboard 1](<img width="1325" height="744" alt="Screenshot 2025-08-26 214003" src="https://github.com/user-attachments/assets/a20b4efa-2ea0-4814-a899-36be37105964" />
+)  
 
 ### Dashboard 2  
-![Spotify Dashboard 2](images/dashboard2.png)  
+![Spotify Dashboard 2](<img width="1325" height="741" alt="Screenshot 2025-08-26 214113" src="https://github.com/user-attachments/assets/0e8e81d4-d63e-40be-b906-c38cf6a3bf2e" />
+)  
 
 ---
 
