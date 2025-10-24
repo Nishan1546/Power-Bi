@@ -19,7 +19,7 @@ This repository contains a Power BI dashboard built using a Spotify dataset of ~
 - **Power BI Desktop**  
 - **Power Query** – ETL (Extract, Transform, Load)  
 - **DAX** – Custom KPIs and calculated metrics  
-- **CSV Dataset** – Spotify music data (tracks, streams, and features)  
+- **CSV Dataset** – Spotify music data (tracks, streams, and features),Weather API 
 
 ---
 
@@ -32,6 +32,10 @@ This repository contains a Power BI dashboard built using a Spotify dataset of ~
 ### Dashboard 2  
 ![Spotify Dashboard 2](<img width="1325" height="741" alt="Screenshot 2025-08-26 214113" src="https://github.com/user-attachments/assets/0e8e81d4-d63e-40be-b906-c38cf6a3bf2e" />
 )  
+### Dashboard 3
+![Spotify Dashboard 2](<img width="1325" height="741" alt="Screenshot 2025-08-26 214113" src="" />
+) 
+
 
 ---
 
